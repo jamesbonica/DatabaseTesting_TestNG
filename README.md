@@ -1,0 +1,1 @@
+This is a practice project using TestNG to test stored functions and procedures in a locally hosted MySQL DB.
